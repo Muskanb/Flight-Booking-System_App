@@ -47,5 +47,6 @@ public class CustomerManager extends HttpServlet {
         page = page.split(".jsp")[0] + ".jsp";
 
         request.getRequestDispatcher(page).forward(request,response);
+        
     }
 }
