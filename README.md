@@ -25,7 +25,7 @@ Following roles are implemented:
 
 ## Workflow (Functionalities)
 
-This is for just one airline who wants to sell seats to their customers via internet. 
+This is for just one airline who wants to sell seats to their customers via internet. ...
 
 Following are the steps of work flow:
 1.  Airline Admin will set the prices of the seats. There should be three types of seats:
